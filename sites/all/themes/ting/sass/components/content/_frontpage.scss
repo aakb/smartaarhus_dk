@@ -1,6 +1,7 @@
 /**
  * Projects
  */
+
 #block-views-ting-projects-block-1 {
 
   padding: 70px 0 50px;
@@ -22,8 +23,10 @@
       display: block;
       position: relative;
       color: $black;
+
       &:hover {
         color: $white;
+
         .project-entry-text {
           background: rgba($blue, 0.5);
         }
@@ -301,4 +304,11 @@
       }
     }
   }
+}
+
+
+.page-projekter .block-main {
+  @extend #block-views-ting-projects-block-1;
+
+  padding-top: 0;
 }
