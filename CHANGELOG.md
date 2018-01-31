@@ -1,12 +1,10 @@
 # Smartaarhus changelog
 
 ## v1.0.8
-
 * Added plupload library
 * Updated jquery.imgareaselect
 
 ## 1.0.5 - 1.0.7
-
 * Updated core and contrib
 * Added rrssb library
 
