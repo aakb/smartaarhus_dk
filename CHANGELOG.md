@@ -1,5 +1,11 @@
 # Smartaarhus changelog
 
+## 1.0.10
+* Changed siteimprove
+
+## 1.0.9
+* Added siteimprove
+
 ## v1.0.8
 * Added plupload library
 * Updated jquery.imgareaselect
