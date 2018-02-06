@@ -33,6 +33,8 @@
     }
   }
 
+  body.not-front.page-sharing-economy &,
+  body.not-front.page-projects &,
   body.not-front.page-dele-oekonomi &,
   body.not-front.page-projekter & {
     @include bp(narrow) {
