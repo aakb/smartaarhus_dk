@@ -33,6 +33,7 @@
     }
   }
 
+  body.not-front.page-dele-oekonomi &,
   body.not-front.page-projekter & {
     @include bp(narrow) {
       margin-right: 0;
